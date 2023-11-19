@@ -1,0 +1,12 @@
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Esto centra verticalmente en la ventana del navegador */
+}
+
+.btn {
+    margin-top: 10px; /* Ajusta el valor según sea necesario */
+}
+
